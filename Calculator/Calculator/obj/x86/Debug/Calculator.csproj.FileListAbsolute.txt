@@ -1,0 +1,7 @@
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\testing-labs\ou-testing-labs\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
